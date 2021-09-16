@@ -2,7 +2,7 @@
 
 In this Data Exploratory Analysis of a COVID-19 dataset (collected on Sept 13,2021), we will be looking at different queries to gain as much insight as possible and work our way through the numbers. 
 
-This is my first EDA project, so I decided to follow a tutorial to see how exactly data analysis works and basically learn to think like an analyst. To be very honest, when I viewed the dataset at first, I was over-whelmed by its size and te amount of data available. But the tutorial helped me resize, exclude unncessary information and realise what exactly a data analyst must be able to do for starters. 
+This is my first EDA project, so I decided to follow a tutorial to see how exactly data analysis works and basically learn to think like an analyst. To be very honest, when I viewed the dataset at first, I was over-whelmed by its size and the amount of data available. But the tutorial helped me resize, exclude unncessary information and realise what exactly a data analyst must be able to do for starters. 
 
 This tutorial is by [Alex The Analyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg), he also has many more videos that may help aspiring data analysts, so I urge you to check him out. And as for the tutorial we are currently talking about, you'll find it [here](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=2&ab_channel=AlexTheAnalyst)
 
