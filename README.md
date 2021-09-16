@@ -13,7 +13,7 @@ This tutorial is by [Alex The Analyst](https://www.youtube.com/channel/UC7cs8q-g
 
 As we all know, COVID-19 has shaken up normal life as we know it, so I thought it was fitting and most relevant to start my data analyst career by exploring a COVID-19 dataset. The dataset, unsurprisingly, had a huge amount of data to work with, but since it is my exploratory project I didn't focus on cleaning it beforehand. You can find the up-to-date dataset [here](https://ourworldindata.org/covid-deaths).
 
-The exploration was basic and simple so as a beginnerI had no problems following and understanding what was being done. We obtain and calculate few relavent conclusions and numbers. The SQL queries for the above can be found in this repository, feel free to add more to it when you do your project if you are comfortable. 
+The exploration was basic and simple so as a beginner I had no problems following and understanding what was being done. We obtain and calculate few relavent conclusions and numbers. The SQL queries for the above can be found in this repository, feel free to add more to it when you do your project if you are comfortable. 
 
 
 
